@@ -84,12 +84,12 @@ section {
 }
 
 section.secondary {
-  background: black;
+  background: rgb(7, 7, 7);
 }
 
 header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("../images/sydney.avif");
+  background-image: linear-gradient(rgba(37, 31, 31, 0.6), rgba(0, 0, 0, 0.6)),
+    url("../images/sie.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -135,7 +135,7 @@ header a {
 }
 
 main {
-  background-color: black;
+  background-color: white(224, 214, 214);
 }
 
 main h2 {
@@ -144,7 +144,7 @@ main h2 {
   line-height: 1.5;
   margin: 0;
   letter-spacing: 5px;
-  color: white;
+  color: black;
   opacity: 0.3;
   text-transform: uppercase;
   text-align: center;
@@ -190,8 +190,7 @@ footer {
       rgba(39, 32, 68, 0.9),
       rgba(39, 32, 68, 0.9)
     ),
-    url("../images/sydney-footer.jpg");
-
+    url("../images/z.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
 }
